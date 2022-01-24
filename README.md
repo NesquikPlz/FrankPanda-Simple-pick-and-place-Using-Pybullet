@@ -12,5 +12,5 @@ This project doesn't include any Reinforcement Learning Process (e.g. learning a
 <br><br>
 <img width="60%" src="https://user-images.githubusercontent.com/77532413/150819074-fa66f562-8c0e-4c3f-afc6-bf3216ca87eb.gif"/>
 
-+
-object(lego) name is 'duck' because I wanted to run the simulation with duck objects(but it had some errors)
+
+-object(lego) name is 'duck' because I wanted to run the simulation with duck objects(but it had some errors)
