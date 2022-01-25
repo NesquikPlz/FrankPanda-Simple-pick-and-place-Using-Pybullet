@@ -11,7 +11,7 @@ references
 <br>
 This project doesn't include any Reinforcement Learning Process (e.g. learning and Rewarding) <br>
 <br><br>
-<img width="60%" src="https://user-images.githubusercontent.com/77532413/150819074-fa66f562-8c0e-4c3f-afc6-bf3216ca87eb.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/77532413/150936024-2b3a0a53-3fa5-4e57-968d-27ad35e2a9bd.gif"/>
 
 
 -object(lego) name is 'duck' because I wanted to run the simulation with duck objects(but it had some errors)
