@@ -6,7 +6,8 @@ Simple Practice for getting used to Pybullet <br>
 references
 * https://github.com/mahyaret/gym-panda<br>
 * https://www.etedal.net/2020/04/pybullet-panda_2.html<br>
-* https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3<br>
+* https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
+* https://ai.aioz.io/guides/robotics/2021-05-19-visual-obs-pybullet/<br>
 <br>
 This project doesn't include any Reinforcement Learning Process (e.g. learning and Rewarding) <br>
 <br><br>
